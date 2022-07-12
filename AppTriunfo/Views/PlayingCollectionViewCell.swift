@@ -13,5 +13,4 @@ class PlayingCollectionViewCell: UICollectionViewCell {
     @IBOutlet var titleLabel: UILabel!
     @IBOutlet var dateLabel: UILabel!
     
-    
 }
