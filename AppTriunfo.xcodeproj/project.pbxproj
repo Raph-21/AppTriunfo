@@ -71,13 +71,13 @@
 			isa = PBXGroup;
 			children = (
 				6400A85F287D96010074418F /* Movie.swift */,
+				647F23C72881AE8700808092 /* MovieResponse.swift */,
 				647F23C528819D9A00808092 /* Movie+API.swift */,
-				6400A863287DA4B10074418F /* Movie+NowPlaying.swift */,
 				6400A866287DA4B10074418F /* Movie+Popular.swift */,
+				6400A863287DA4B10074418F /* Movie+NowPlaying.swift */,
 				6400A865287DA4B10074418F /* Movie+TrendingThisWeek.swift */,
 				6400A864287DA4B10074418F /* Movie+TrendingToday.swift */,
 				6400A862287DA4B10074418F /* Movie+Upcoming.swift */,
-				647F23C72881AE8700808092 /* MovieResponse.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
